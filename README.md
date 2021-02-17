@@ -4,6 +4,7 @@ A comparison between genomic ETFs provided by ARK Invest and iShares by Blackroc
 Comparing the similarity between holdings of the 2 following ETFs
 
 ARKG - Genomic Revolution Multi-Sector by ARK Invest
+
 IDNA - iShares Genomics and Immunology and Healthcare by Blackrock
 
 Sources
